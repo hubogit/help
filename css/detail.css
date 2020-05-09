@@ -120,7 +120,8 @@
 }
 
 .brank-cover img {
-  width: 100px;
+  width: 100%;
+  height: 100%;
 }
 
 .group-honor .honor-content {
@@ -140,7 +141,6 @@
 .group-honor .honor-content .honor-item p {
   width: 100%;
   height: 200px;
-  padding: 60px 0 0;
 }
 
 .group-honor .honor-content .honor-item p img {
